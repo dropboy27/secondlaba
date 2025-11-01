@@ -47,7 +47,7 @@
 ## Инструкция к использованию
 
 ### Установить репозиторий
-```git clone https://github.com/dropboy27/secondlaba.git```
+```git clone https://github.com/dropboy27/secondlaba.git```\
 ```pip install -r requirements.txt```
 
 ### Запустить
